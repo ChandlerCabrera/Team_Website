@@ -4,6 +4,7 @@ layout: default
 
 ## EECS 4313: GROUP [undecided]
 
+<a href="https://github.com/pages-themes/cayman" class="btn">View on GitHub</a>
 
 ### Group Members
 
