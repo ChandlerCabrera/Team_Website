@@ -1,10 +1,14 @@
 ---
 layout: default
+markdown: kramdown
 ---
 
 ## EECS 4313: GROUP [undecided]
 
-<a href="https://github.com/pages-themes/cayman" class="btn">View on GitHub</a>
+<a href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 1</a>
+<a href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 2</a>
+<a href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 3</a>
+<a href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 4</a>
 
 ### Group Members
 
