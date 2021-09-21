@@ -9,6 +9,7 @@ markdown: kramdown
 <h3 href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 2</h3>
 <h3 href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 3</h3>
 <h3 href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 4</h3>
+<h3 href="https://google.ca/" class="btn">Meet the Team</h3>
 
 ### Group Members
 
