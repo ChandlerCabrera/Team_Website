@@ -1,9 +1,3 @@
----
-title: INDEX
-layout: template
-filename: index
----
-
 ## GROUP [undecided]
 
 ### Group Members
