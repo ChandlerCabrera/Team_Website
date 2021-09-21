@@ -5,10 +5,10 @@ markdown: kramdown
 
 ## EECS 4313: GROUP [undecided]
 
-<a href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 1</a>
-<a href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 2</a>
-<a href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 3</a>
-<a href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 4</a>
+<h3 href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 1</h3>
+<h3 href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 2</h3>
+<h3 href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 3</h3>
+<h3 href="https://chandlercabrera.github.io/Team_Website/" class="btn">Assignment 4</h3>
 
 ### Group Members
 
