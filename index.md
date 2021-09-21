@@ -1,4 +1,5 @@
-## GROUP [undecided]
+## EECS 4313 - GROUP [undecided]
+
 
 ### Group Members
 
