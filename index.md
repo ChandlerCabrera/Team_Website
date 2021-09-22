@@ -1,6 +1,6 @@
 ---
 layout: default
-markdown: kramdown
+markdown: GFM
 ---
 
 ## EECS 4313
