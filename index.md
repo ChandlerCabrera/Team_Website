@@ -2,7 +2,7 @@
 layout: default
 markdown: GFM
 ---
-#EECS 4313 - C.A.S.A.Y Website
+# EECS 4313 - C.A.S.A.Y Website
 
 ### Group Members
 
