@@ -6,11 +6,11 @@ markdown: GFM
 ## EECS 4313 - C.A.S.A.Y Group Website
 ### Group Members
 
-| Name | Email | Student ID |
-|------|-------|------------|
-| Yonis Abokar  | na@na.na | 123456789 |
-| Ameer Bacchus | na@na.na | 123456789 |
-| Chandler Cabrera | cabrera.chandler@gmail.com | 214407571 |
-| Anas Ishtiaque | anas1325@my.yorku.ca | 123456789 |
-| Seran Sathivel | na@na.na | 123456789 |
+| Name | Email |
+|------|-------|
+| Yonis Abokar  | na@na.na |
+| Ameer Bacchus | na@na.na |
+| Chandler Cabrera | cabrera.chandler@gmail.com |
+| Anas Ishtiaque | anas1325@my.yorku.ca |
+| Seran Sathivel | na@na.na |
 
