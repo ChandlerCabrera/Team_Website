@@ -4,8 +4,10 @@ markdown: GFM
 ---
 
 ## EECS 4313
-|[Assignment 1](https://chandlercabrera.github.io/Team_Website/)|[Assignment 2]()|[Assignment 3]()|[Assignment 4]()|
+|[Assignment 1]()|[Assignment 2]()|[Assignment 3]()|[Assignment 4]()|
 |----------------|----------------|----------------|----------------|
+| [Report]() | [Report]() | [Report]() | [Report]() |
+| [Presentation]() | [Presentation]() | [Presentation]() | [Presentation]() |
 
 
 ### Group Members
