@@ -6,8 +6,8 @@ markdown: GFM
 ## EECS 4313
 |[Assignment 1]()|[Assignment 2]()|[Assignment 3]()|[Assignment 4]()|
 |----------------|----------------|----------------|----------------|
-| [Report]() | [Report]() | [Report]() | [Report]() |
-| [Presentation]() | [Presentation]() | [Presentation]() | [Presentation]() |
+|   [Report]()   |   [Report]()   |   [Report]()   |   [Report]()   |
+|[Presentation]()|[Presentation]()|[Presentation]()|[Presentation]()|
 
 
 ### Group Members
