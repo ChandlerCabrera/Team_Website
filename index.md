@@ -3,10 +3,9 @@ layout: default
 markdown: kramdown
 ---
 
-## EECS 4313: GROUP [undecided]
-|||||
-|---|---|---|---|
-|[Assignment 1]()|[Assignment 2]()|[Assignment 3]()|[Assignment 4]()|
+## EECS 4313
+|[Assignment 1](https://chandlercabrera.github.io/Team_Website/)|[Assignment 2]()|[Assignment 3]()|[Assignment 4]()|
+|----------------|----------------|----------------|----------------|
 
 
 ### Group Members
