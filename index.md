@@ -3,6 +3,7 @@ layout: default
 markdown: GFM
 ---
 
+## EECS 4313 - C.A.S.A.Y Group Website
 ### Group Members
 
 | Name | Email | Student ID |
