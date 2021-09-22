@@ -2,10 +2,8 @@
 layout: default
 markdown: GFM
 ---
-# EECS 4313 - C.A.S.A.Y Website
 
 ### Group Members
-
 | Name | Email |
 |------|-------|
 | Yonis Abokar  | na@na.na |
